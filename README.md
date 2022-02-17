@@ -4,7 +4,7 @@ Module 1:
 
 Case Study 1-Complete
 
-Case Study 2-In Progress(Will be done by End of Week)
+Case Study 2-In Progress(Will be done by End of Week)[Part-1 done]
 
 Business Case Study 1: To be done
 
