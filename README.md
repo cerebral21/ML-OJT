@@ -1,11 +1,8 @@
 # ML-OJT
 
-Module 1:
+Module 1:[Completed]
 
 Case Study 1-Complete
 
-Case Study 2-In Progress(Will be done by End of Week)[Part-1 done]
+Case Study 2-Complete
 
-Business Case Study 1: To be done
-
-Business Case Study 2: To be done
